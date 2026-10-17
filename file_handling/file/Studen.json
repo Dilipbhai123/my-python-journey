@@ -1,0 +1,12 @@
+{
+    "Nane": "Rohan",
+    "Age": "22",
+    "City": "B.K",
+    "Is_Student": "True",
+    "Student_Id": "E1",
+    "Course": [
+        "python",
+        "java",
+        "c++"
+    ]
+}
